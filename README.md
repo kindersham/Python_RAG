@@ -1,3 +1,5 @@
+Sample RAG by python
+
 Create a .env and insert below env:
 DEEPSEEK_API_KEY = "YOUR API KEY"
 
